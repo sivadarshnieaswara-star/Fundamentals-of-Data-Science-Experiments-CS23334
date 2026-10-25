@@ -6,8 +6,8 @@ Every experiment file is in the main folder, named by its experiment number:
 
 | File / Folder | What it has |
 |---|---|
-| `expXX.py` | Plain Python scripts – run any of them live |
-| [`pics/`](pics) | Output pictures (graphs and printed output) for every experiment |
+| `expXX.py` | Python scripts – run any of them live |
+| `expXX_output.png`, `expXX_graphN.png` | Output pictures for each experiment, next to its script |
 | [`docs/`](docs) | Lab record PDFs with aim, description, code and sample output |
 | [`data/`](data) | All datasets (CSV) used by the experiments |
 
@@ -75,9 +75,9 @@ plt.show()
 
 **Output**
 
-![exp01a_output.png](pics/exp01a_output.png)
+![exp01a_output.png](exp01a_output.png)
 
-![exp01a_graph1.png](pics/exp01a_graph1.png)
+![exp01a_graph1.png](exp01a_graph1.png)
 
 ---
 
@@ -100,7 +100,7 @@ plt.show()
 
 **Output**
 
-![exp01b_graph1.png](pics/exp01b_graph1.png)
+![exp01b_graph1.png](exp01b_graph1.png)
 
 ---
 
@@ -131,7 +131,7 @@ print("\nSemi-structured Data:\n", semi_structured_data)
 
 **Output**
 
-![exp01c_output.png](pics/exp01c_output.png)
+![exp01c_output.png](exp01c_output.png)
 
 ---
 
@@ -158,7 +158,7 @@ print("Decrypted Data:", decrypted_text)
 
 **Output**
 
-![exp01d_output.png](pics/exp01d_output.png)
+![exp01d_output.png](exp01d_output.png)
 
 ---
 
@@ -185,7 +185,7 @@ cricket.show()
 
 **Output**
 
-![exp03a_graph1.png](pics/exp03a_graph1.png)
+![exp03a_graph1.png](exp03a_graph1.png)
 
 ---
 
@@ -211,7 +211,7 @@ hscmark.show()
 
 **Output**
 
-![exp03b_graph1.png](pics/exp03b_graph1.png)
+![exp03b_graph1.png](exp03b_graph1.png)
 
 ---
 
@@ -237,7 +237,7 @@ election.show()
 
 **Output**
 
-![exp03c_graph1.png](pics/exp03c_graph1.png)
+![exp03c_graph1.png](exp03c_graph1.png)
 
 ---
 
@@ -281,7 +281,7 @@ print("Pairs\n" + str(list(zip(wlist, wordfreq))))
 
 **Output**
 
-![exp04_output.png](pics/exp04_output.png)
+![exp04_output.png](exp04_output.png)
 
 ---
 
@@ -316,11 +316,11 @@ plt.show()
 
 **Output**
 
-![exp05_output.png](pics/exp05_output.png)
+![exp05_output.png](exp05_output.png)
 
-![exp05_graph1.png](pics/exp05_graph1.png)
+![exp05_graph1.png](exp05_graph1.png)
 
-![exp05_graph2.png](pics/exp05_graph2.png)
+![exp05_graph2.png](exp05_graph2.png)
 
 ---
 
@@ -371,17 +371,17 @@ plt.show()
 
 **Output**
 
-![exp06_output.png](pics/exp06_output.png)
+![exp06_output.png](exp06_output.png)
 
-![exp06_graph1.png](pics/exp06_graph1.png)
+![exp06_graph1.png](exp06_graph1.png)
 
-![exp06_graph2.png](pics/exp06_graph2.png)
+![exp06_graph2.png](exp06_graph2.png)
 
-![exp06_graph3.png](pics/exp06_graph3.png)
+![exp06_graph3.png](exp06_graph3.png)
 
-![exp06_graph4.png](pics/exp06_graph4.png)
+![exp06_graph4.png](exp06_graph4.png)
 
-![exp06_graph5.png](pics/exp06_graph5.png)
+![exp06_graph5.png](exp06_graph5.png)
 
 ---
 
@@ -429,9 +429,9 @@ plt.show()
 
 **Output**
 
-![exp07_output.png](pics/exp07_output.png)
+![exp07_output.png](exp07_output.png)
 
-![exp07_graph1.png](pics/exp07_graph1.png)
+![exp07_graph1.png](exp07_graph1.png)
 
 ---
 
@@ -479,7 +479,7 @@ else:
 
 **Output**
 
-![exp08_output.png](pics/exp08_output.png)
+![exp08_output.png](exp08_output.png)
 
 ---
 
@@ -532,23 +532,23 @@ plt.show()
 
 **Output**
 
-![exp09_output.png](pics/exp09_output.png)
+![exp09_output.png](exp09_output.png)
 
-![exp09_graph1.png](pics/exp09_graph1.png)
+![exp09_graph1.png](exp09_graph1.png)
 
-![exp09_graph2.png](pics/exp09_graph2.png)
+![exp09_graph2.png](exp09_graph2.png)
 
-![exp09_graph3.png](pics/exp09_graph3.png)
+![exp09_graph3.png](exp09_graph3.png)
 
-![exp09_graph4.png](pics/exp09_graph4.png)
+![exp09_graph4.png](exp09_graph4.png)
 
-![exp09_graph5.png](pics/exp09_graph5.png)
+![exp09_graph5.png](exp09_graph5.png)
 
-![exp09_graph6.png](pics/exp09_graph6.png)
+![exp09_graph6.png](exp09_graph6.png)
 
-![exp09_graph7.png](pics/exp09_graph7.png)
+![exp09_graph7.png](exp09_graph7.png)
 
-![exp09_graph8.png](pics/exp09_graph8.png)
+![exp09_graph8.png](exp09_graph8.png)
 
 ---
 
@@ -592,7 +592,7 @@ print("new_array[1:3]:\n", new_array[1:3])
 
 **Output**
 
-![exp10_output.png](pics/exp10_output.png)
+![exp10_output.png](exp10_output.png)
 
 ---
 
@@ -648,9 +648,9 @@ print(employee_DF)
 
 **Output**
 
-![exp11_output1.png](pics/exp11_output1.png)
+![exp11_output1.png](exp11_output1.png)
 
-![exp11_output2.png](pics/exp11_output2.png)
+![exp11_output2.png](exp11_output2.png)
 
 ---
 
@@ -712,15 +712,15 @@ plt.show()
 
 **Output**
 
-![exp12_output.png](pics/exp12_output.png)
+![exp12_output.png](exp12_output.png)
 
-![exp12_graph1.png](pics/exp12_graph1.png)
+![exp12_graph1.png](exp12_graph1.png)
 
-![exp12_graph2.png](pics/exp12_graph2.png)
+![exp12_graph2.png](exp12_graph2.png)
 
-![exp12_graph3.png](pics/exp12_graph3.png)
+![exp12_graph3.png](exp12_graph3.png)
 
-![exp12_graph4.png](pics/exp12_graph4.png)
+![exp12_graph4.png](exp12_graph4.png)
 
 ---
 
@@ -788,11 +788,11 @@ print(df)
 
 **Output**
 
-![exp13_output1.png](pics/exp13_output1.png)
+![exp13_output1.png](exp13_output1.png)
 
-![exp13_output2.png](pics/exp13_output2.png)
+![exp13_output2.png](exp13_output2.png)
 
-![exp13_output3.png](pics/exp13_output3.png)
+![exp13_output3.png](exp13_output3.png)
 
 ---
 
@@ -844,9 +844,9 @@ print("MinMax Scaler:\n", feat_minmax_scaler)
 
 **Output**
 
-![exp14_output1.png](pics/exp14_output1.png)
+![exp14_output1.png](exp14_output1.png)
 
-![exp14_output2.png](pics/exp14_output2.png)
+![exp14_output2.png](exp14_output2.png)
 
 ---
 
@@ -886,9 +886,9 @@ print(updated_dataset)
 
 **Output**
 
-![exp15_output1.png](pics/exp15_output1.png)
+![exp15_output1.png](exp15_output1.png)
 
-![exp15_output2.png](pics/exp15_output2.png)
+![exp15_output2.png](exp15_output2.png)
 
 ---
 
@@ -959,39 +959,39 @@ plt.show()
 
 **Output**
 
-![exp16_output.png](pics/exp16_output.png)
+![exp16_output.png](exp16_output.png)
 
-![exp16_graph1.png](pics/exp16_graph1.png)
+![exp16_graph1.png](exp16_graph1.png)
 
-![exp16_graph2.png](pics/exp16_graph2.png)
+![exp16_graph2.png](exp16_graph2.png)
 
-![exp16_graph3.png](pics/exp16_graph3.png)
+![exp16_graph3.png](exp16_graph3.png)
 
-![exp16_graph4.png](pics/exp16_graph4.png)
+![exp16_graph4.png](exp16_graph4.png)
 
-![exp16_graph5.png](pics/exp16_graph5.png)
+![exp16_graph5.png](exp16_graph5.png)
 
-![exp16_graph6.png](pics/exp16_graph6.png)
+![exp16_graph6.png](exp16_graph6.png)
 
-![exp16_graph7.png](pics/exp16_graph7.png)
+![exp16_graph7.png](exp16_graph7.png)
 
-![exp16_graph8.png](pics/exp16_graph8.png)
+![exp16_graph8.png](exp16_graph8.png)
 
-![exp16_graph9.png](pics/exp16_graph9.png)
+![exp16_graph9.png](exp16_graph9.png)
 
-![exp16_graph10.png](pics/exp16_graph10.png)
+![exp16_graph10.png](exp16_graph10.png)
 
-![exp16_graph11.png](pics/exp16_graph11.png)
+![exp16_graph11.png](exp16_graph11.png)
 
-![exp16_graph12.png](pics/exp16_graph12.png)
+![exp16_graph12.png](exp16_graph12.png)
 
-![exp16_graph13.png](pics/exp16_graph13.png)
+![exp16_graph13.png](exp16_graph13.png)
 
-![exp16_graph14.png](pics/exp16_graph14.png)
+![exp16_graph14.png](exp16_graph14.png)
 
-![exp16_graph15.png](pics/exp16_graph15.png)
+![exp16_graph15.png](exp16_graph15.png)
 
-![exp16_graph16.png](pics/exp16_graph16.png)
+![exp16_graph16.png](exp16_graph16.png)
 
 ---
 
@@ -1039,7 +1039,7 @@ print("Estimated Salary for {} years of experience is {}: ".format(yr_of_exp, Sa
 
 **Output**
 
-![exp17_output.png](pics/exp17_output.png)
+![exp17_output.png](exp17_output.png)
 
 ---
 
@@ -1076,7 +1076,7 @@ print(classification_report(label, model_KNN.predict(features)))
 
 **Output**
 
-![exp18_output.png](pics/exp18_output.png)
+![exp18_output.png](exp18_output.png)
 
 ---
 
@@ -1123,25 +1123,25 @@ print(classification_report(label, finalModel.predict(features)))
 
 **Output**
 
-![exp19_output1.png](pics/exp19_output1.png)
+![exp19_output1.png](exp19_output1.png)
 
-![exp19_output2.png](pics/exp19_output2.png)
+![exp19_output2.png](exp19_output2.png)
 
-![exp19_output3.png](pics/exp19_output3.png)
+![exp19_output3.png](exp19_output3.png)
 
-![exp19_output4.png](pics/exp19_output4.png)
+![exp19_output4.png](exp19_output4.png)
 
-![exp19_output5.png](pics/exp19_output5.png)
+![exp19_output5.png](exp19_output5.png)
 
-![exp19_output6.png](pics/exp19_output6.png)
+![exp19_output6.png](exp19_output6.png)
 
-![exp19_output7.png](pics/exp19_output7.png)
+![exp19_output7.png](exp19_output7.png)
 
-![exp19_output8.png](pics/exp19_output8.png)
+![exp19_output8.png](exp19_output8.png)
 
-![exp19_output9.png](pics/exp19_output9.png)
+![exp19_output9.png](exp19_output9.png)
 
-![exp19_output10.png](pics/exp19_output10.png)
+![exp19_output10.png](exp19_output10.png)
 
 ---
 
@@ -1195,12 +1195,12 @@ plt.show()
 
 **Output**
 
-![exp20_output.png](pics/exp20_output.png)
+![exp20_output.png](exp20_output.png)
 
-![exp20_graph1.png](pics/exp20_graph1.png)
+![exp20_graph1.png](exp20_graph1.png)
 
-![exp20_graph2.png](pics/exp20_graph2.png)
+![exp20_graph2.png](exp20_graph2.png)
 
-![exp20_graph3.png](pics/exp20_graph3.png)
+![exp20_graph3.png](exp20_graph3.png)
 
 ---
