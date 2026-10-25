@@ -15,37 +15,37 @@ Every experiment is available in three forms:
 
 | Exp | Title | Notebook | Script | Record |
 |---|---|---|---|---|
-| 1a | Trend of data science job postings over the last decade | [ipynb](notebooks/exp01a_job_postings_trend.ipynb) | [py](code/exp01a_job_postings_trend.py) | [pdf](docs/01a-FDS_Experiment.pdf) |
-| 1b | Distribution of data science roles | [ipynb](notebooks/exp01b_roles_distribution.ipynb) | [py](code/exp01b_roles_distribution.py) | [pdf](docs/01b-FDS_Experiment.pdf) |
-| 1c | Structured, unstructured and semi-structured data | [ipynb](notebooks/exp01c_structured_unstructured.ipynb) | [py](code/exp01c_structured_unstructured.py) | [pdf](docs/01c-FDS_Experiment.pdf) |
-| 1d | Encrypt and decrypt sensitive data | [ipynb](notebooks/exp01d_encrypt_decrypt.ipynb) | [py](code/exp01d_encrypt_decrypt.py) | [pdf](docs/01d-FDS_Experiment.pdf) |
-| 3a | Data visualization – line plot | [ipynb](notebooks/exp03a_line_plot.ipynb) | [py](code/exp03a_line_plot.py) | [pdf](docs/03a-FDS_Experiment.pdf) |
-| 3b | Data visualization – bar chart | [ipynb](notebooks/exp03b_bar_chart.ipynb) | [py](code/exp03b_bar_chart.py) | [pdf](docs/03b-FDS_Experiment.pdf) |
-| 3c | Data visualization – pie chart | [ipynb](notebooks/exp03c_pie_chart.ipynb) | [py](code/exp03c_pie_chart.py) | [pdf](docs/03c-FDS_Experiment.pdf) |
-| 4 | Word frequency in a body of text (NLTK) | [ipynb](notebooks/exp04_word_frequency.ipynb) | [py](code/exp04_word_frequency.py) | [pdf](docs/04-FDS_Experiment.pdf) |
-| 5 | Data collection and initial exploration (diabetes) | [ipynb](notebooks/exp05_diabetes_exploration.ipynb) | [py](code/exp05_diabetes_exploration.py) | [pdf](docs/05-FDS_Experiment.pdf) |
-| 6 | Time series analysis of website traffic | [ipynb](notebooks/exp06_website_traffic_timeseries.ipynb) | [py](code/exp06_website_traffic_timeseries.py) | [pdf](docs/06-FDS_Experiment.pdf) |
-| 7 | Random sampling and sampling distribution | [ipynb](notebooks/exp07_sampling_distribution.ipynb) | [py](code/exp07_sampling_distribution.py) | [pdf](docs/07-FDS_Experiment.pdf) |
-| 8 | Z-test | [ipynb](notebooks/exp08_z_test.ipynb) | [py](code/exp08_z_test.py) | [pdf](docs/08-FDS_Experiment.pdf) |
-| 9 | Matplotlib use cases (Iris dataset) | [ipynb](notebooks/exp09_matplotlib_iris.ipynb) | [py](code/exp09_matplotlib_iris.py) | [pdf](docs/09-FDS_Experiment.pdf) |
-| 10 | NumPy array functions | [ipynb](notebooks/exp10_numpy_arrays.ipynb) | [py](code/exp10_numpy_arrays.py) | [pdf](docs/10-FDS_Experiment.pdf) |
-| 11 | Pandas DataFrame use cases | [ipynb](notebooks/exp11_pandas_dataframes.ipynb) | [py](code/exp11_pandas_dataframes.py) | [pdf](docs/11-FDS_Experiment.pdf) |
-| 12 | Outlier detection (IQR) | [ipynb](notebooks/exp12_outlier_detection.ipynb) | [py](code/exp12_outlier_detection.py) | [pdf](docs/12-FDS_Experiment.pdf) |
-| 13 | Handling missing and inappropriate data | [ipynb](notebooks/exp13_missing_inappropriate_data.ipynb) | [py](code/exp13_missing_inappropriate_data.py) | [pdf](docs/13-FDS_Experiment.pdf) |
-| 14 | Feature scaling | [ipynb](notebooks/exp14_feature_scaling.ipynb) | [py](code/exp14_feature_scaling.py) | [pdf](docs/14-FDS_Experiment.pdf) |
-| 15 | Data preprocessing | [ipynb](notebooks/exp15_data_preprocessing.ipynb) | [py](code/exp15_data_preprocessing.py) | [pdf](docs/15-FDS_Experiment.pdf) |
-| 16 | EDA – quantitative and qualitative analysis | [ipynb](notebooks/exp16_eda_quantitative_qualitative.ipynb) | [py](code/exp16_eda_quantitative_qualitative.py) | [pdf](docs/16-FDS_Experiment.pdf) |
-| 17 | Linear regression | [ipynb](notebooks/exp17_linear_regression.ipynb) | [py](code/exp17_linear_regression.py) | [pdf](docs/17-FDS_Experiment.pdf) |
-| 18 | KNN algorithm | [ipynb](notebooks/exp18_knn.ipynb) | [py](code/exp18_knn.py) | [pdf](docs/18-FDS_Experiment.pdf) |
-| 19 | Logistic regression | [ipynb](notebooks/exp19_logistic_regression.ipynb) | [py](code/exp19_logistic_regression.py) | [pdf](docs/19-FDS_Experiment.pdf) |
-| 20 | K-means clustering | [ipynb](notebooks/exp20_kmeans_clustering.ipynb) | [py](code/exp20_kmeans_clustering.py) | [pdf](docs/20-FDS_Experiment.pdf) |
+| 1a | Trend of data science job postings over the last decade | [ipynb](notebooks/exp01a.ipynb) | [py](code/exp01a.py) | [pdf](docs/exp01a.pdf) |
+| 1b | Distribution of data science roles | [ipynb](notebooks/exp01b.ipynb) | [py](code/exp01b.py) | [pdf](docs/exp01b.pdf) |
+| 1c | Structured, unstructured and semi-structured data | [ipynb](notebooks/exp01c.ipynb) | [py](code/exp01c.py) | [pdf](docs/exp01c.pdf) |
+| 1d | Encrypt and decrypt sensitive data | [ipynb](notebooks/exp01d.ipynb) | [py](code/exp01d.py) | [pdf](docs/exp01d.pdf) |
+| 3a | Data visualization – line plot | [ipynb](notebooks/exp03a.ipynb) | [py](code/exp03a.py) | [pdf](docs/exp03a.pdf) |
+| 3b | Data visualization – bar chart | [ipynb](notebooks/exp03b.ipynb) | [py](code/exp03b.py) | [pdf](docs/exp03b.pdf) |
+| 3c | Data visualization – pie chart | [ipynb](notebooks/exp03c.ipynb) | [py](code/exp03c.py) | [pdf](docs/exp03c.pdf) |
+| 4 | Word frequency in a body of text (NLTK) | [ipynb](notebooks/exp04.ipynb) | [py](code/exp04.py) | [pdf](docs/exp04.pdf) |
+| 5 | Data collection and initial exploration (diabetes) | [ipynb](notebooks/exp05.ipynb) | [py](code/exp05.py) | [pdf](docs/exp05.pdf) |
+| 6 | Time series analysis of website traffic | [ipynb](notebooks/exp06.ipynb) | [py](code/exp06.py) | [pdf](docs/exp06.pdf) |
+| 7 | Random sampling and sampling distribution | [ipynb](notebooks/exp07.ipynb) | [py](code/exp07.py) | [pdf](docs/exp07.pdf) |
+| 8 | Z-test | [ipynb](notebooks/exp08.ipynb) | [py](code/exp08.py) | [pdf](docs/exp08.pdf) |
+| 9 | Matplotlib use cases (Iris dataset) | [ipynb](notebooks/exp09.ipynb) | [py](code/exp09.py) | [pdf](docs/exp09.pdf) |
+| 10 | NumPy array functions | [ipynb](notebooks/exp10.ipynb) | [py](code/exp10.py) | [pdf](docs/exp10.pdf) |
+| 11 | Pandas DataFrame use cases | [ipynb](notebooks/exp11.ipynb) | [py](code/exp11.py) | [pdf](docs/exp11.pdf) |
+| 12 | Outlier detection (IQR) | [ipynb](notebooks/exp12.ipynb) | [py](code/exp12.py) | [pdf](docs/exp12.pdf) |
+| 13 | Handling missing and inappropriate data | [ipynb](notebooks/exp13.ipynb) | [py](code/exp13.py) | [pdf](docs/exp13.pdf) |
+| 14 | Feature scaling | [ipynb](notebooks/exp14.ipynb) | [py](code/exp14.py) | [pdf](docs/exp14.pdf) |
+| 15 | Data preprocessing | [ipynb](notebooks/exp15.ipynb) | [py](code/exp15.py) | [pdf](docs/exp15.pdf) |
+| 16 | EDA – quantitative and qualitative analysis | [ipynb](notebooks/exp16.ipynb) | [py](code/exp16.py) | [pdf](docs/exp16.pdf) |
+| 17 | Linear regression | [ipynb](notebooks/exp17.ipynb) | [py](code/exp17.py) | [pdf](docs/exp17.pdf) |
+| 18 | KNN algorithm | [ipynb](notebooks/exp18.ipynb) | [py](code/exp18.py) | [pdf](docs/exp18.pdf) |
+| 19 | Logistic regression | [ipynb](notebooks/exp19.ipynb) | [py](code/exp19.py) | [pdf](docs/exp19.pdf) |
+| 20 | K-means clustering | [ipynb](notebooks/exp20.ipynb) | [py](code/exp20.py) | [pdf](docs/exp20.pdf) |
 
 ## How to run
 
 ```bash
 pip install -r requirements.txt
 cd code
-python3 exp08_z_test.py
+python3 exp08.py
 ```
 
 Or open all notebooks with `jupyter notebook notebooks/`.
