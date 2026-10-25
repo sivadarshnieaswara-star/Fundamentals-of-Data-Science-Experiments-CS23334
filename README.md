@@ -6,7 +6,6 @@ Every experiment file is in the main folder, named by its experiment number:
 
 | File / Folder | What it has |
 |---|---|
-| `expXX.ipynb` | Jupyter notebooks **already executed** – code, printed output and graphs are saved inside, so they display directly on GitHub |
 | `expXX.py` | Plain Python scripts – run any of them live |
 | [`pics/`](pics) | Output pictures (graphs and printed output) for every experiment |
 | [`docs/`](docs) | Lab record PDFs with aim, description, code and sample output |
@@ -14,32 +13,32 @@ Every experiment file is in the main folder, named by its experiment number:
 
 ## Experiments
 
-| Exp | Title | Notebook | Script | Record |
-|---|---|---|---|---|
-| 1a | Trend of data science job postings over the last decade | [ipynb](exp01a.ipynb) | [py](exp01a.py) | [pdf](docs/exp01a.pdf) |
-| 1b | Distribution of data science roles | [ipynb](exp01b.ipynb) | [py](exp01b.py) | [pdf](docs/exp01b.pdf) |
-| 1c | Structured, unstructured and semi-structured data | [ipynb](exp01c.ipynb) | [py](exp01c.py) | [pdf](docs/exp01c.pdf) |
-| 1d | Encrypt and decrypt sensitive data | [ipynb](exp01d.ipynb) | [py](exp01d.py) | [pdf](docs/exp01d.pdf) |
-| 3a | Data visualization – line plot | [ipynb](exp03a.ipynb) | [py](exp03a.py) | [pdf](docs/exp03a.pdf) |
-| 3b | Data visualization – bar chart | [ipynb](exp03b.ipynb) | [py](exp03b.py) | [pdf](docs/exp03b.pdf) |
-| 3c | Data visualization – pie chart | [ipynb](exp03c.ipynb) | [py](exp03c.py) | [pdf](docs/exp03c.pdf) |
-| 4 | Word frequency in a body of text (NLTK) | [ipynb](exp04.ipynb) | [py](exp04.py) | [pdf](docs/exp04.pdf) |
-| 5 | Data collection and initial exploration (diabetes) | [ipynb](exp05.ipynb) | [py](exp05.py) | [pdf](docs/exp05.pdf) |
-| 6 | Time series analysis of website traffic | [ipynb](exp06.ipynb) | [py](exp06.py) | [pdf](docs/exp06.pdf) |
-| 7 | Random sampling and sampling distribution | [ipynb](exp07.ipynb) | [py](exp07.py) | [pdf](docs/exp07.pdf) |
-| 8 | Z-test | [ipynb](exp08.ipynb) | [py](exp08.py) | [pdf](docs/exp08.pdf) |
-| 9 | Matplotlib use cases (Iris dataset) | [ipynb](exp09.ipynb) | [py](exp09.py) | [pdf](docs/exp09.pdf) |
-| 10 | NumPy array functions | [ipynb](exp10.ipynb) | [py](exp10.py) | [pdf](docs/exp10.pdf) |
-| 11 | Pandas DataFrame use cases | [ipynb](exp11.ipynb) | [py](exp11.py) | [pdf](docs/exp11.pdf) |
-| 12 | Outlier detection (IQR) | [ipynb](exp12.ipynb) | [py](exp12.py) | [pdf](docs/exp12.pdf) |
-| 13 | Handling missing and inappropriate data | [ipynb](exp13.ipynb) | [py](exp13.py) | [pdf](docs/exp13.pdf) |
-| 14 | Feature scaling | [ipynb](exp14.ipynb) | [py](exp14.py) | [pdf](docs/exp14.pdf) |
-| 15 | Data preprocessing | [ipynb](exp15.ipynb) | [py](exp15.py) | [pdf](docs/exp15.pdf) |
-| 16 | EDA – quantitative and qualitative analysis | [ipynb](exp16.ipynb) | [py](exp16.py) | [pdf](docs/exp16.pdf) |
-| 17 | Linear regression | [ipynb](exp17.ipynb) | [py](exp17.py) | [pdf](docs/exp17.pdf) |
-| 18 | KNN algorithm | [ipynb](exp18.ipynb) | [py](exp18.py) | [pdf](docs/exp18.pdf) |
-| 19 | Logistic regression | [ipynb](exp19.ipynb) | [py](exp19.py) | [pdf](docs/exp19.pdf) |
-| 20 | K-means clustering | [ipynb](exp20.ipynb) | [py](exp20.py) | [pdf](docs/exp20.pdf) |
+| Exp | Title | Script | Record |
+|---|---|---|---|
+| 1a | Trend of data science job postings over the last decade | [py](exp01a.py) | [pdf](docs/exp01a.pdf) |
+| 1b | Distribution of data science roles | [py](exp01b.py) | [pdf](docs/exp01b.pdf) |
+| 1c | Structured, unstructured and semi-structured data | [py](exp01c.py) | [pdf](docs/exp01c.pdf) |
+| 1d | Encrypt and decrypt sensitive data | [py](exp01d.py) | [pdf](docs/exp01d.pdf) |
+| 3a | Data visualization – line plot | [py](exp03a.py) | [pdf](docs/exp03a.pdf) |
+| 3b | Data visualization – bar chart | [py](exp03b.py) | [pdf](docs/exp03b.pdf) |
+| 3c | Data visualization – pie chart | [py](exp03c.py) | [pdf](docs/exp03c.pdf) |
+| 4 | Word frequency in a body of text (NLTK) | [py](exp04.py) | [pdf](docs/exp04.pdf) |
+| 5 | Data collection and initial exploration (diabetes) | [py](exp05.py) | [pdf](docs/exp05.pdf) |
+| 6 | Time series analysis of website traffic | [py](exp06.py) | [pdf](docs/exp06.pdf) |
+| 7 | Random sampling and sampling distribution | [py](exp07.py) | [pdf](docs/exp07.pdf) |
+| 8 | Z-test | [py](exp08.py) | [pdf](docs/exp08.pdf) |
+| 9 | Matplotlib use cases (Iris dataset) | [py](exp09.py) | [pdf](docs/exp09.pdf) |
+| 10 | NumPy array functions | [py](exp10.py) | [pdf](docs/exp10.pdf) |
+| 11 | Pandas DataFrame use cases | [py](exp11.py) | [pdf](docs/exp11.pdf) |
+| 12 | Outlier detection (IQR) | [py](exp12.py) | [pdf](docs/exp12.pdf) |
+| 13 | Handling missing and inappropriate data | [py](exp13.py) | [pdf](docs/exp13.pdf) |
+| 14 | Feature scaling | [py](exp14.py) | [pdf](docs/exp14.pdf) |
+| 15 | Data preprocessing | [py](exp15.py) | [pdf](docs/exp15.pdf) |
+| 16 | EDA – quantitative and qualitative analysis | [py](exp16.py) | [pdf](docs/exp16.pdf) |
+| 17 | Linear regression | [py](exp17.py) | [pdf](docs/exp17.pdf) |
+| 18 | KNN algorithm | [py](exp18.py) | [pdf](docs/exp18.pdf) |
+| 19 | Logistic regression | [py](exp19.py) | [pdf](docs/exp19.pdf) |
+| 20 | K-means clustering | [py](exp20.py) | [pdf](docs/exp20.pdf) |
 
 ## How to run
 
@@ -48,7 +47,6 @@ pip install -r requirements.txt
 python3 exp08.py
 ```
 
-Or open all notebooks with `jupyter notebook`.
 
 ---
 
@@ -56,7 +54,7 @@ Or open all notebooks with `jupyter notebook`.
 
 ## Exp 1a – Trend of data science job postings over the last decade
 
-**Code** ([exp01a.py](exp01a.py) · [notebook](exp01a.ipynb) · [record](docs/exp01a.pdf))
+**Code** ([exp01a.py](exp01a.py) · [record](docs/exp01a.pdf))
 
 ```python
 # Exp No: 1.a - Analyze the trend of data science job postings over the last decade
@@ -85,7 +83,7 @@ plt.show()
 
 ## Exp 1b – Distribution of data science roles
 
-**Code** ([exp01b.py](exp01b.py) · [notebook](exp01b.ipynb) · [record](docs/exp01b.pdf))
+**Code** ([exp01b.py](exp01b.py) · [record](docs/exp01b.pdf))
 
 ```python
 # Exp No: 1.b - Analyze and visualize the distribution of various data science roles
@@ -108,7 +106,7 @@ plt.show()
 
 ## Exp 1c – Structured, unstructured and semi-structured data
 
-**Code** ([exp01c.py](exp01c.py) · [notebook](exp01c.ipynb) · [record](docs/exp01c.pdf))
+**Code** ([exp01c.py](exp01c.py) · [record](docs/exp01c.pdf))
 
 ```python
 # Exp No: 1.c - Differentiate Structured, Un-structured and Semi-structured data
@@ -139,7 +137,7 @@ print("\nSemi-structured Data:\n", semi_structured_data)
 
 ## Exp 1d – Encrypt and decrypt sensitive data
 
-**Code** ([exp01d.py](exp01d.py) · [notebook](exp01d.ipynb) · [record](docs/exp01d.pdf))
+**Code** ([exp01d.py](exp01d.py) · [record](docs/exp01d.pdf))
 
 ```python
 # Exp No: 1.d - Encrypt and decrypt given sensitive data
@@ -166,7 +164,7 @@ print("Decrypted Data:", decrypted_text)
 
 ## Exp 3a – Data visualization – line plot
 
-**Code** ([exp03a.py](exp03a.py) · [notebook](exp03a.ipynb) · [record](docs/exp03a.pdf))
+**Code** ([exp03a.py](exp03a.py) · [record](docs/exp03a.pdf))
 
 ```python
 # Exp No: 3.a - Data visualization using line plot
@@ -193,7 +191,7 @@ cricket.show()
 
 ## Exp 3b – Data visualization – bar chart
 
-**Code** ([exp03b.py](exp03b.py) · [notebook](exp03b.ipynb) · [record](docs/exp03b.pdf))
+**Code** ([exp03b.py](exp03b.py) · [record](docs/exp03b.pdf))
 
 ```python
 # Exp No: 3.b - Data visualization using bar chart
@@ -219,7 +217,7 @@ hscmark.show()
 
 ## Exp 3c – Data visualization – pie chart
 
-**Code** ([exp03c.py](exp03c.py) · [notebook](exp03c.ipynb) · [record](docs/exp03c.pdf))
+**Code** ([exp03c.py](exp03c.py) · [record](docs/exp03c.pdf))
 
 ```python
 # Exp No: 3.c - Data visualization using pie chart
@@ -245,7 +243,7 @@ election.show()
 
 ## Exp 4 – Word frequency in a body of text (NLTK)
 
-**Code** ([exp04.py](exp04.py) · [notebook](exp04.ipynb) · [record](docs/exp04.pdf))
+**Code** ([exp04.py](exp04.py) · [record](docs/exp04.pdf))
 
 ```python
 # Exp No: 4 - Count the frequency of occurrence of a word in a body of text
@@ -289,7 +287,7 @@ print("Pairs\n" + str(list(zip(wlist, wordfreq))))
 
 ## Exp 5 – Data collection and initial exploration (diabetes)
 
-**Code** ([exp05.py](exp05.py) · [notebook](exp05.ipynb) · [record](docs/exp05.pdf))
+**Code** ([exp05.py](exp05.py) · [record](docs/exp05.pdf))
 
 ```python
 # Exp No: 5 - Data Collection and Initial Exploration (PIMA Indian Diabetes dataset)
@@ -328,7 +326,7 @@ plt.show()
 
 ## Exp 6 – Time series analysis of website traffic
 
-**Code** ([exp06.py](exp06.py) · [notebook](exp06.ipynb) · [record](docs/exp06.pdf))
+**Code** ([exp06.py](exp06.py) · [record](docs/exp06.pdf))
 
 ```python
 # Experiment 6 - Time Series Analysis of Website Traffic
@@ -389,7 +387,7 @@ plt.show()
 
 ## Exp 7 – Random sampling and sampling distribution
 
-**Code** ([exp07.py](exp07.py) · [notebook](exp07.ipynb) · [record](docs/exp07.pdf))
+**Code** ([exp07.py](exp07.py) · [record](docs/exp07.pdf))
 
 ```python
 # Experiment 7 - Random Sampling and Sampling Distribution
@@ -439,7 +437,7 @@ plt.show()
 
 ## Exp 8 – Z-test
 
-**Code** ([exp08.py](exp08.py) · [notebook](exp08.ipynb) · [record](docs/exp08.pdf))
+**Code** ([exp08.py](exp08.py) · [record](docs/exp08.pdf))
 
 ```python
 # Lab Experiment 8 - Conduct Z test for the data given
@@ -487,7 +485,7 @@ else:
 
 ## Exp 9 – Matplotlib use cases (Iris dataset)
 
-**Code** ([exp09.py](exp09.py) · [notebook](exp09.ipynb) · [record](docs/exp09.pdf))
+**Code** ([exp09.py](exp09.py) · [record](docs/exp09.pdf))
 
 ```python
 # Exp No: 9 - Understand Matplotlib library use cases in Data Science through visualization (Iris dataset)
@@ -556,7 +554,7 @@ plt.show()
 
 ## Exp 10 – NumPy array functions
 
-**Code** ([exp10.py](exp10.py) · [notebook](exp10.ipynb) · [record](docs/exp10.pdf))
+**Code** ([exp10.py](exp10.py) · [record](docs/exp10.pdf))
 
 ```python
 # Exp No: 10 - Understand array functions in Data Science using NumPy
@@ -600,7 +598,7 @@ print("new_array[1:3]:\n", new_array[1:3])
 
 ## Exp 11 – Pandas DataFrame use cases
 
-**Code** ([exp11.py](exp11.py) · [notebook](exp11.ipynb) · [record](docs/exp11.pdf))
+**Code** ([exp11.py](exp11.py) · [record](docs/exp11.pdf))
 
 ```python
 # Exp No: 11 - Understand pandas library use cases in Data Science
@@ -658,7 +656,7 @@ print(employee_DF)
 
 ## Exp 12 – Outlier detection (IQR)
 
-**Code** ([exp12.py](exp12.py) · [notebook](exp12.ipynb) · [record](docs/exp12.pdf))
+**Code** ([exp12.py](exp12.py) · [record](docs/exp12.pdf))
 
 ```python
 # Exp No: 12 - Detect outliers in a given data set
@@ -728,7 +726,7 @@ plt.show()
 
 ## Exp 13 – Handling missing and inappropriate data
 
-**Code** ([exp13.py](exp13.py) · [notebook](exp13.ipynb) · [record](docs/exp13.pdf))
+**Code** ([exp13.py](exp13.py) · [record](docs/exp13.pdf))
 
 ```python
 # Exp No: 13 - Handle missing values and inappropriate data in a given data set
@@ -800,7 +798,7 @@ print(df)
 
 ## Exp 14 – Feature scaling
 
-**Code** ([exp14.py](exp14.py) · [notebook](exp14.ipynb) · [record](docs/exp14.pdf))
+**Code** ([exp14.py](exp14.py) · [record](docs/exp14.pdf))
 
 ```python
 # Exp No: 14 - Understand feature scaling
@@ -854,7 +852,7 @@ print("MinMax Scaler:\n", feat_minmax_scaler)
 
 ## Exp 15 – Data preprocessing
 
-**Code** ([exp15.py](exp15.py) · [notebook](exp15.ipynb) · [record](docs/exp15.pdf))
+**Code** ([exp15.py](exp15.py) · [record](docs/exp15.pdf))
 
 ```python
 # Exp No: 15 - Understand data preprocessing in Data Science
@@ -896,7 +894,7 @@ print(updated_dataset)
 
 ## Exp 16 – EDA – quantitative and qualitative analysis
 
-**Code** ([exp16.py](exp16.py) · [notebook](exp16.ipynb) · [record](docs/exp16.pdf))
+**Code** ([exp16.py](exp16.py) · [record](docs/exp16.pdf))
 
 ```python
 # Exp No: 16 - Understand EDA - Quantitative and Qualitative analysis (tips dataset)
@@ -999,7 +997,7 @@ plt.show()
 
 ## Exp 17 – Linear regression
 
-**Code** ([exp17.py](exp17.py) · [notebook](exp17.ipynb) · [record](docs/exp17.pdf))
+**Code** ([exp17.py](exp17.py) · [record](docs/exp17.pdf))
 
 ```python
 # Exp No: 17 - Understand Linear Regression for a given data set
@@ -1047,7 +1045,7 @@ print("Estimated Salary for {} years of experience is {}: ".format(yr_of_exp, Sa
 
 ## Exp 18 – KNN algorithm
 
-**Code** ([exp18.py](exp18.py) · [notebook](exp18.ipynb) · [record](docs/exp18.pdf))
+**Code** ([exp18.py](exp18.py) · [record](docs/exp18.pdf))
 
 ```python
 # Exp No: 18 - Understand KNN algorithm for a given data set
@@ -1084,7 +1082,7 @@ print(classification_report(label, model_KNN.predict(features)))
 
 ## Exp 19 – Logistic regression
 
-**Code** ([exp19.py](exp19.py) · [notebook](exp19.ipynb) · [record](docs/exp19.pdf))
+**Code** ([exp19.py](exp19.py) · [record](docs/exp19.pdf))
 
 ```python
 # Exp No: 19 - Understand Logistic Regression for a given data set
@@ -1149,7 +1147,7 @@ print(classification_report(label, finalModel.predict(features)))
 
 ## Exp 20 – K-means clustering
 
-**Code** ([exp20.py](exp20.py) · [notebook](exp20.ipynb) · [record](docs/exp20.pdf))
+**Code** ([exp20.py](exp20.py) · [record](docs/exp20.pdf))
 
 ```python
 # Exp No: 20 - Understand K-means clustering algorithm for a given data set
